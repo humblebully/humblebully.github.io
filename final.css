@@ -8,7 +8,7 @@
 }
 
 .ds4.disconnected {
-    background: url(triggers.png);
+    background: url(ps4-assets/disconnected.svg);
 }
 
 .ds4.disconnected div {
@@ -25,7 +25,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(ps4-assets/triggers.svg);
+    background: url(triggers.png);
     opacity: 0;
 }
 
@@ -278,4 +278,5 @@ background-position: 0 -70px;
 
 
 /*END PS4 Controller Styling*/
+
 
