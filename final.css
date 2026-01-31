@@ -197,7 +197,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticks.svg);
+    background: url(sticks.png);
     height: 94px;
     width: 94px;
 }
@@ -275,5 +275,6 @@ background-position: 0 -70px;
 .ds4.half {
     margin-top: -300px;
 }
+
 
 /*END PS4 Controller Styling*/
